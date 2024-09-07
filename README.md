@@ -22,9 +22,7 @@ Zero-Knowledge Proofs (ZKPs) are cryptographic protocols that allow one party (t
 
 ## Prerequisites
 
-- **Node.js**: Install Node.js from [nodejs.org](https://nodejs.org/)
-- **CIRCOM Compiler**: Follow the installation steps from [CIRCOM documentation](https://docs.circom.io/getting-started/installation/)
-- **SnarkJS**: JavaScript library for ZK-Snark proof generation and verification.
+- **CIRCOM Compiler**: [CIRCOM documentation](https://docs.circom.io/getting-started/installation/)
 
 ## Installation
 

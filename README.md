@@ -1,4 +1,4 @@
-# ZK-Snark Proof System: Using CIRCOM and SNARK
+# ZK-Snark Proof System: Using CIRCOM
 
 This project demonstrates the setup and implementation of a Zero-Knowledge Proof (ZK-Snark) system using CIRCOM and SnarkJS. It covers the entire process from circuit creation to proof generation and verification.
 
